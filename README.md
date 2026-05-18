@@ -9,3 +9,6 @@ Usage:
 
 If duration is omitted, the script runs until interrupted.
 ```
+looks like this:
+
+<img width="411" height="230" alt="image" src="https://github.com/user-attachments/assets/0de40807-a696-4f83-b13d-ea3110c8f029" />
